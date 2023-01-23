@@ -56,7 +56,7 @@ section .background{
     background: var(--cyan);
 }
 .layerBeforeBlobs{
-    background-image: url("temp.png");
+    background-image: url("center.png");
     background-repeat: no-repeat;
     background-position:50% 80%;
     /* background: rgba(255,255,255,0.1); */
