@@ -59,7 +59,8 @@ section .background{
 .layerBeforeBlobs{
     background-image: url("center.png");
     background-repeat: no-repeat;
-    background-position:50% 80%;
+    background-position:50% 72%;
+    background-size:76vw;
     /* background: rgba(255,255,255,0.1); */
     /* border: 1px solid black; */
     height: 200vh;
