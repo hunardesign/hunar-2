@@ -67,7 +67,7 @@ section .background{
     width: 100vw;
     position: absolute;
     z-index: 4;
-    backdrop-filter: blur(250px);
+    backdrop-filter: blur(150px);
 }
 .blobs.gold{
     transform: translate(80%);
